@@ -1,0 +1,11 @@
+{
+  "name": "repo-master",
+  "version": "1.0.0",
+  "description": "Testing semantic release between repos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Chirivella",
+  "license": "ISC"
+}
